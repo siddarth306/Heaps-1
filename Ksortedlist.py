@@ -4,6 +4,7 @@
 #			Pop the min node from the heap and append it to the result list. Move the pointer of that list to the next node and add it to the min heap.
 #			Finally print the result.
 #
+# Missed Cases: [], [[],[1]], [[]]
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
